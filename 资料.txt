@@ -1,0 +1,18 @@
+
+
+https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/index.html
+http://blog.csdn.net/fly_yr/article/details/51553587
+http://blog.csdn.net/fly_yr/article/details/51525435
+http://www.cnblogs.com/duwangdan/p/6888958.html
+https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/001431658624177ea4f8fcb06bc4d0e8aab2fd7aa65dd95000
+http://www.w3school.com.cn/html/html_paragraphs.asp
+http://cuiqingcai.com/2621.html
+http://lxml.de/tutorial.html
+http://www.heibanke.com/lesson/crawler_ex00/
+https://www.zhihu.com/question/20899988
+
+
+pip3 install bs4 requests numpy pandas scrapy scrapy-redis
+
+error: Microsoft Visual C++ 14.0 is required. Get it with “Microsoft Visual C++ Build Tools”: http://landinghub.visualstudio.com/visual-cpp-build-tools 
+下载离线安装版的安装
