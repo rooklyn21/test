@@ -1,0 +1,12 @@
+/*.description {
+    color:red;
+}*/
+
+.description {
+    color:blue;
+    font-weight: bold;
+    font-style: italic;
+    /*font-variant: inherit;*/
+    font-size: 24px;
+    font-family: monospace;
+}
